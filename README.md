@@ -1,4 +1,4 @@
-# EXPERIMENT-01
+# EXPERIMENT-01: ALP FOR 8086
 
 ### Name : Kathiresan K
 ### Roll no : 212223110021
